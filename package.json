@@ -1,0 +1,13 @@
+{
+  "name": "linux-terminal-web",
+  "version": "1.0.0",
+  "description": "Frontend-only Linux terminal emulator for the web",
+  "main": "src/App.js",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
