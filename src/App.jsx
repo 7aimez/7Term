@@ -6,8 +6,8 @@ export default function App() {
   const [html, setHtml] = useState('');
   return (
     <div>
-      <Terminal onHTML={setHtml} />
-      {html && <HTMLViewer html={html} />}
+      {lines.map(...)}
+      <div>...</div>
     </div>
-  );
+  )
 }
